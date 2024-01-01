@@ -20,6 +20,7 @@ Course materials for Big Data in Astrophysics
 
 ### Related Material
 
+* Federica Bianco’s Python Bootcamp: https://github.com/fedhere/PyBOOT
 * UIUC Fundamentals of Data science: https://github.com/gnarayan/ast596_2023_Spring
 * Vanderbilt Astrostatistics: https://github.com/VanderbiltAstronomy/astr_8070_s22
 * Drexel Big Data Physics: Methods of Machine Learning: https://github.com/gtrichards/PHYS_440_540
