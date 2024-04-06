@@ -1,0 +1,71 @@
+/* Size variants */
+
+article.bigger p, article.bigger ul {
+  font-size: 30px;
+  line-height: 34px;
+  letter-spacing: 0;
+}
+
+article.bigger table td, article.bigger table th {
+  font-size: 18px;
+}
+
+article.bigger pre {
+  font-size: 19px;
+  line-height: 24px;
+  letter-spacing: 0;
+}
+
+article.bigger q {
+  font-size: 44px;
+  line-height: 52px;
+}
+
+article.bigger q:before, article.bigger q:after {
+  font-size: 64px;
+}
+
+/* side-image */
+
+article.side-image {
+    height: 100%;
+}
+
+article.side-image img {
+    max-width: 50%;
+    max-height: 75%;
+    float: right;
+    clear: both;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+article.side-image p.caption {
+    max-width: 50%;
+    float: right;
+    clear: both;
+    font-size: 16pt;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+/* Individual Slides */
+
+#spaghetti-slide {
+    background-image: url(images/sky.jpg)
+}
+
+article#information-a-property-of-our-universe img {
+    width: 50%;
+}
+
+#ascii-arrow {
+    position: fixed;
+    left: 625px;
+    top: 380px;
+    transform: rotate(30deg);
+}
+
+.build .build-fade {
+  opacity: 0.9;
+}
